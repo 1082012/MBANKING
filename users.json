@@ -5,5 +5,13 @@
     "nama": "Gusti",
     "nohp": "081313",
     "saldo": null
+  },
+  {
+    "username": "Haran",
+    "password": "190206",
+    "nama": "Haran",
+    "nohp": "0812",
+    "norek": "95048913958",
+    "saldo": 0
   }
 ]
