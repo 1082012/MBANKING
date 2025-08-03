@@ -1,59 +1,11 @@
 [
   {
-    "username": "Haran",
+    "username": "Gusti",
     "password": "190206",
-    "nama": "Haran",
-    "nohp": "0812",
-    "norek": "95048913958",
-    "saldo": 990000
-  },
-  {
-    "username": "Gusto",
-    "password": "190208",
-    "nama": "Gusto",
-    "nohp": "08199",
-    "norek": "96716303952",
-    "saldo": 867000,
-    "pin": "190208"
-  },
-  {
-    "nama": "Finix",
-    "username": "Finix",
-    "password": "Anakilang",
-    "norek": "8609101760",
-    "saldo": 1000000,
-    "pin": "811891"
-  },
-  {
-    "username": "ytoll",
-    "password": "0099",
     "nama": "Gusti",
-    "norek": "2038187822",
-    "saldo": 0,
-    "pin": ""
-  },
-  {
-    "username": "kontod",
-    "password": "190207",
-    "nama": "Gusti",
-    "norek": "2566596166",
-    "saldo": 0,
-    "pin": ""
-  },
-  {
-    "nama": "Guest",
-    "username": "Guestt",
-    "password": "001",
-    "norek": "8665993081",
-    "saldo": 1000000,
-    "pin": ""
-  },
-  {
-    "nama": "Hiato",
-    "username": "Hiato",
-    "password": "190207",
-    "norek": "8604528288",
-    "saldo": 143000,
-    "pin": "190206"
+    "nohp": "081313876160",
+    "norek": "00011112222",
+    "saldo": 1000000
   }
+  
 ]
