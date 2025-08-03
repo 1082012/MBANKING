@@ -39,5 +39,13 @@
     "norek": "2566596166",
     "saldo": 0,
     "pin": ""
+  },
+  {
+    "nama": "Guest",
+    "username": "Guestt",
+    "password": "001",
+    "norek": "8665993081",
+    "saldo": 1000000,
+    "pin": ""
   }
 ]
