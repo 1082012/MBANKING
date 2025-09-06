@@ -6,13 +6,13 @@
     "saldo": 899998000,
     "pin": "190206"
   },
-   {
+  {
     "name": "IKRAAM MAULANA",
     "username": "IKRAAM",
     "password": "IKRAAM123",
     "pin": "062011",
     "norek": "856455525",
-    "saldo": 50000000
+    "saldo": 50010000
   },
   {
     "nama": "Test",
@@ -56,7 +56,7 @@
     "password": "112233",
     "pin": "190208",
     "norek": "8595876716",
-    "saldo": 50000
+    "saldo": 40000
   },
   {
     "name": "Gus",
