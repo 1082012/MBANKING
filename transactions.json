@@ -43,5 +43,14 @@
     "type": "payment",
     "details": "Toko Sejahtera",
     "timestamp": "2025-09-09T06:59:57.520Z"
+  },
+  {
+    "id": "TRX1757654122244",
+    "from": "IKRAAM",
+    "to": "MERCHANT_EDC_AURABANK",
+    "amount": 100000,
+    "type": "payment",
+    "details": "EDC AURABANK",
+    "timestamp": "2025-09-12T05:15:22.244Z"
   }
 ]
