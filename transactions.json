@@ -61,5 +61,14 @@
     "type": "topup",
     "details": "Top Up Saldo",
     "timestamp": "2025-09-17T11:55:45.791Z"
+  },
+  {
+    "id": "TRX1758110483253",
+    "from": "gustizzz",
+    "to": "MERCHANT_INTERACTIVE_CORP",
+    "amount": 10000,
+    "type": "payment",
+    "details": "InterActive Corp",
+    "timestamp": "2025-09-17T12:01:23.253Z"
   }
 ]
