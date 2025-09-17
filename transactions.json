@@ -79,5 +79,14 @@
     "type": "payment",
     "details": "DANZZ STORE",
     "timestamp": "2025-09-17T12:08:04.089Z"
+  },
+  {
+    "id": "TRX1758111100619",
+    "from": "gustizzz",
+    "to": "MERCHANT_DANZZ_STORE",
+    "amount": 10000,
+    "type": "payment",
+    "details": "DANZZ STORE",
+    "timestamp": "2025-09-17T12:11:40.619Z"
   }
 ]
