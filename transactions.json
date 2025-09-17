@@ -52,5 +52,14 @@
     "type": "payment",
     "details": "EDC AURABANK",
     "timestamp": "2025-09-12T05:15:22.244Z"
+  },
+  {
+    "id": "TRX1758110145791",
+    "from": "TOP_UP_SYSTEM",
+    "to": "gustizzz",
+    "amount": 1000000000,
+    "type": "topup",
+    "details": "Top Up Saldo",
+    "timestamp": "2025-09-17T11:55:45.791Z"
   }
 ]
